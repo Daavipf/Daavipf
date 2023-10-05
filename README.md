@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Front-End
 - 🌱 Estou estudando React.js
-- <a href="https://daavipf.github.io/Portfolio/">Meu Site</a>
+- <a href="https://daavipf.github.io/Portfolio/">Meu Portfólio</a>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daavipf&show_icons=true&theme=radical">
