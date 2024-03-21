@@ -1,7 +1,7 @@
 ### Olá! Me chamo Davi 👋
 
 - 🔭 Atualmente trabalho com Front-End
-- 🌱 Estou estudando React.js
+- 🌱 Estou estudando Node.js
 - <a href="https://daavipf.github.io/Portfolio/">Meu Portfólio</a>
 
 <div>
