@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente sou dev fullstack freelancer
 - 🌱 Estou estudando React.js e .NET framework
-- <a href="https://daavipf.github.io/Portfolio/">Meu Portfólio</a>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daavipf&show_icons=true&theme=radical">
