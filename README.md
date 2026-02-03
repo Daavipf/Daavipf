@@ -49,7 +49,7 @@ Here are some of the languages and technologies which i'm most skilled at:
   <img align="center" title="Linux" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
-## 📫 Contato
+## 📫 Contact
 
 ![Gmail Badge](https://img.shields.io/badge/-davi.pferreira2705@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{davi.pferreira2705@gmail.com})
 [![Linkedin: Ellen](https://img.shields.io/badge/-davipereira-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-pereira-ferreira-3862a9282/)](https://www.linkedin.com/in/davi-pereira-ferreira-3862a9282/)
