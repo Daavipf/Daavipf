@@ -50,6 +50,16 @@ Here are some of the languages and technologies which i'm most skilled at:
   <img align="center" title="Linux" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daavipf&layout=compact&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Daavipf&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github"/>
+
+</div>
+
 ## 📫 Contact
 
 ![Gmail Badge](https://img.shields.io/badge/-davi.pferreira2705@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{davi.pferreira2705@gmail.com})
