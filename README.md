@@ -8,7 +8,7 @@
 
 > "Truth can only be found in one place: the code." - Robert C. Martin
 
-## 🚀 Skills
+<!-- ## 🚀 Skills
 
 Here are some of the languages and technologies which i'm most skilled at:
 
@@ -49,20 +49,22 @@ Here are some of the languages and technologies which i'm most skilled at:
   <img align="center" title="VSCode" alt="VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" title="Linux" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
+-->
 
-<div align="center">
+## 🚀 Stack
+![Static Badge](https://img.shields.io/badge/-typescript-v1?label=&logo=typescript&style=for-the-badge&logoColor=white&color=4c566a)
+![Static Badge](https://img.shields.io/badge/-next.js-v1?label=&logo=nextdotjs&style=for-the-badge&logoColor=white&color=4c566a)
+![Static Badge](https://img.shields.io/badge/-node.js-v1?label=&logo=nodedotjs&style=for-the-badge&logoColor=white&color=4c566a)
+![Static Badge](https://img.shields.io/badge/-PostgreSQL-v1?label=&logo=postgresql&style=for-the-badge&logoColor=white&color=4c566a)
+![Static Badge](https://img.shields.io/badge/-Jest.js-v1?label=&logo=jest&style=for-the-badge&logoColor=white&color=4c566a)
+![Static Badge](https://img.shields.io/badge/-Git-v1?label=&logo=git&style=for-the-badge&logoColor=white&color=4c566a)
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daavipf&layout=compact&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Daavipf&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github"/>
-
-</div>
+![Daavipf's Stats](https://github-readme-stats.vercel.app/api?username=Daavipf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Daavipf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daavipf&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Contact
 
 ![Gmail Badge](https://img.shields.io/badge/-davi.pferreira2705@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{davi.pferreira2705@gmail.com})
 [![Linkedin: Ellen](https://img.shields.io/badge/-davipereira-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-pereira-ferreira-3862a9282/)](https://www.linkedin.com/in/davi-pereira-ferreira-3862a9282/)
 
-Feel free to get in touch to discuss collaborations, interesting projects ou any other programming related matter. I look forward to hear from you! 😊
+Feel free to get in touch to discuss collaborations, interesting projects or any other programming related matter. I look forward to hear from you! 😊
