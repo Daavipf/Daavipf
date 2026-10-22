@@ -52,11 +52,12 @@ Here are some of the languages and technologies which i'm most skilled at:
 -->
 
 ## 🚀 Stack
-![Static Badge](https://img.shields.io/badge/-typescript-v1?label=&logo=typescript&style=for-the-badge&logoColor=white&color=4c566a)
+![Static Badge](https://img.shields.io/badge/-golang-v1?label=&logo=go&style=for-the-badge&logoColor=white&color=4c566a)
 ![Static Badge](https://img.shields.io/badge/-next.js-v1?label=&logo=nextdotjs&style=for-the-badge&logoColor=white&color=4c566a)
+![Static Badge](https://img.shields.io/badge/-react-v1?label=&logo=react&style=for-the-badge&logoColor=white&color=4c566a)
+![Static Badge](https://img.shields.io/badge/-typescript-v1?label=&logo=typescript&style=for-the-badge&logoColor=white&color=4c566a)
 ![Static Badge](https://img.shields.io/badge/-node.js-v1?label=&logo=nodedotjs&style=for-the-badge&logoColor=white&color=4c566a)
 ![Static Badge](https://img.shields.io/badge/-PostgreSQL-v1?label=&logo=postgresql&style=for-the-badge&logoColor=white&color=4c566a)
-![Static Badge](https://img.shields.io/badge/-Jest.js-v1?label=&logo=jest&style=for-the-badge&logoColor=white&color=4c566a)
 ![Static Badge](https://img.shields.io/badge/-Git-v1?label=&logo=git&style=for-the-badge&logoColor=white&color=4c566a)
 
 ![Daavipf's Stats](https://github-readme-stats.vercel.app/api?username=Daavipf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
